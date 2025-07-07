@@ -57,7 +57,7 @@ Example:
 3\. Include the Bonsai Script
 -----------------------------
 
-Download the bonsai.js [here](https://raw.githubusercontent.com/devmadhava/jsbonsai/main/bonsai.js) here or from github repo and include the bundled `bonsai.js` script in your HTML after the canvas element.
+Download the bonsai.js [here](https://raw.githubusercontent.com/devmadhava/js-bonsai/main/bonsai.js) or from github repo and include the bundled `bonsai.js` script in your HTML after the canvas element.
 
 ```html
 <script src="./bonsai.js"></script>
