@@ -16,6 +16,10 @@ Original concept and logic based on [cbonsai](https://gitlab.com/jallbrit/cbonsa
 This JS Bonsai is not perfect and is work in progress, it would be made more natural looking and streamlied just like the original cbonsai.
 
 
+## Example
+
+![My Animation](./example.gif)
+
 1\. Add Canvas Element
 ----------------------
 
